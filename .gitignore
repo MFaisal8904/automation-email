@@ -1,0 +1,4 @@
+events/*
+!events/building-web-app
+node_modules
+.env
