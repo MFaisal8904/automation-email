@@ -116,4 +116,4 @@ function csvGetRow() {
   });
 }
 
-send();
+send().catch(console.log);
