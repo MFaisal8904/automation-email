@@ -44,3 +44,10 @@ cp .env.example .env
 - GOOGLE_CLIENT_SECRET : this is google client secret obtained from [credentials section](https://console.cloud.google.com/apis/credentials) in google cloud console
 
 - REFRESH_TOKEN : this is refresh token obtained from [google oauth playground](https://developers.google.com/oauthplayground)
+
+
+## Usage Explanation
+
+1. Make Email template from Google Docs and Download as .html
+2. Change src attribute from image file path, to uploaded image link
+3. Change to iniline-css using mailchimp: [https://templates.mailchimp.com/resources/inline-css/](https://templates.mailchimp.com/resources/inline-css/)
