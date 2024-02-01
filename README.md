@@ -44,7 +44,7 @@ cp .env.example .env
 - GOOGLE_CLIENT_SECRET : this is google client secret obtained from [credentials section](https://console.cloud.google.com/apis/credentials) in google cloud console
 
 - REFRESH_TOKEN : this is refresh token obtained from [google oauth playground](https://developers.google.com/oauthplayground)
-
+<a href="https://ibb.co/NF21pv2"><img src="https://i.ibb.co/kG23072/FOOTER.png" alt="FOOTER" border="0" /></a>
 
 ## Usage Explanation
 
